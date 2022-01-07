@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anamarn
-- 👀 I’m interested in app developping
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in app developping and image processing
+- 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me by mail! ana.marn@uc.cl
 
 <!---
